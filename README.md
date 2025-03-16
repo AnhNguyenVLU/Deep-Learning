@@ -5,17 +5,19 @@ Chào mừng đến với kho tài liệu bài lab về **Học Sâu (Deep Learn
 Các bài lab trong kho tài liệu này được thiết kế để giúp sinh viên nắm vững các khái niệm cơ bản và nâng cao về Deep Learning, đồng thời áp dụng chúng vào các bài toán thực tế như phân loại ảnh, xử lý chuỗi, và hơn thế nữa.
 ---
 
+## Cấu trúc thư mục
+```
 Deep-Learning/
 ├── Lab1_Neural_Networks/          # Bài lab về mạng nơ-ron nhân tạo (ANN) cơ bản
 ├── Lab2_CNN/                      # Bài lab về Convolutional Neural Networks (CNN)
 ├── Lab3_RNN/                      # Bài lab về Recurrent Neural Networks (RNN)
 ├── Lab4_LSTM/                     # Bài lab về Long Short-Term Memory (LSTM)
 ├── Lab5_Transformers/             # Bài lab về Transformers
-├── Lab6_GANS/                     # Bài lab về GANs
-├── Lab7_Reinforcement Learning/   # Bài lab về Reinforcement Learning
+├── Lab6_GANS/                     # Bài lab về Generative Adversarial Networks (GANs)
+├── Lab7_Reinforcement_Learning/   # Bài lab về Reinforcement Learning
 ├── datasets/                      # Thư mục chứa dữ liệu mẫu (MNIST, văn bản, ...)
 └── README.md                      # Tài liệu hướng dẫn (bạn đang đọc)
-
+```
 
 - Mỗi thư mục `LabX_` chứa:
   - File lý thuyết (`.md` hoặc `.ipynb`) giải thích khái niệm.
@@ -53,15 +55,15 @@ Deep-Learning/
 ---
 ## Timeline 
 
-Tuần 1: Lab1 - Neural Networks (ANN cơ bản).
-Tuần 2: Lab2 - CNN (Phân loại ảnh).
-Tuần 3: Lab3 - RNN (Xử lý chuỗi).
-Tuần 4: Lab4 - LSTM (Chuỗi dài hạn).
-Tuần 5: Kiểm tra giữa kì
-Tuần 6: Lab5 - Transformers (NLP nâng cao).
-Tuần 7: Lab6 - GANs (Tạo sinh dữ liệu).
-Tuần 8: Lab7 - Reinforcement Learning (Hành vi thông minh).
-Tuần 9: Ôn tập
+Tuần 1: Lab1 - Neural Networks (ANN cơ bản).\
+Tuần 2: Lab2 - CNN (Phân loại ảnh).\
+Tuần 3: Lab3 - RNN (Xử lý chuỗi).\
+Tuần 4: Lab4 - LSTM (Chuỗi dài hạn).\
+Tuần 5: Kiểm tra giữa kì\
+Tuần 6: Lab5 - Transformers (NLP nâng cao).\
+Tuần 7: Lab6 - GANs (Tạo sinh dữ liệu).\
+Tuần 8: Lab7 - Reinforcement Learning (Hành vi thông minh).\
+Tuần 9: Ôn tập\
 Tuần 10: Thi cuối kì
 
 TA: 
