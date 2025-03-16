@@ -7,15 +7,15 @@ Các bài lab trong kho tài liệu này được thiết kế để giúp sinh 
 
 ## Cấu trúc thư mục
 ```
-Deep-Learning/
-├── Lab1_Neural_Networks/          # Bài lab về mạng nơ-ron nhân tạo (ANN) cơ bản
-├── Lab2_CNN/                      # Bài lab về Convolutional Neural Networks (CNN)
-├── Lab3_RNN/                      # Bài lab về Recurrent Neural Networks (RNN)
-├── Lab4_LSTM/                     # Bài lab về Long Short-Term Memory (LSTM)
-├── Lab5_Transformers/             # Bài lab về Transformers
-├── Lab6_GANS/                     # Bài lab về Generative Adversarial Networks (GANs)
-├── Lab7_Reinforcement_Learning/   # Bài lab về Reinforcement Learning
-├── datasets/                      # Thư mục chứa dữ liệu mẫu (MNIST, văn bản, ...)
+Deep-Learning
+├── Lab1_Neural_Networks          # Bài lab về mạng nơ-ron nhân tạo (ANN) cơ bản
+├── Lab2_CNN                      # Bài lab về Convolutional Neural Networks (CNN)
+├── Lab3_RNN                      # Bài lab về Recurrent Neural Networks (RNN)
+├── Lab4_LSTM                     # Bài lab về Long Short-Term Memory (LSTM)
+├── Lab5_Transformers             # Bài lab về Transformers
+├── Lab6_GANS                     # Bài lab về Generative Adversarial Networks (GANs)
+├── Lab7_Reinforcement_Learning   # Bài lab về Reinforcement Learning
+├── datasets                      # Thư mục chứa dữ liệu mẫu (MNIST, văn bản, ...)
 └── README.md                      # Tài liệu hướng dẫn (bạn đang đọc)
 ```
 
@@ -53,7 +53,7 @@ Deep-Learning/
      ```bash
      pip install torch torchvision matplotlib numpy jupyter
 ---
-## Timeline 
+## Timelines 
 
 Tuần 1: Lab1 - Neural Networks (ANN cơ bản).\
 Tuần 2: Lab2 - CNN (Phân loại ảnh).\
