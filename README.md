@@ -3,7 +3,6 @@
 Chào mừng đến với kho tài liệu bài lab về **Học Sâu (Deep Learning)**! Đây là bộ tài liệu được biên soạn nhằm phục vụ công việc nghiên cứu và học tập của sinh viên khoa Công Nghệ Thông Tin tại Đại học Văn Lang, chuyên ngành Trí Tuệ Nhân Tạo (AI).
 
 Các bài lab trong kho tài liệu này được thiết kế để giúp sinh viên nắm vững các khái niệm cơ bản và nâng cao về Deep Learning, đồng thời áp dụng chúng vào các bài toán thực tế như phân loại ảnh, xử lý chuỗi, và hơn thế nữa.
----
 
 ## Cấu trúc thư mục
 ```
